@@ -2,10 +2,10 @@
 
 module.exports = () => {
   return mysql.createConnection({
-    host: '206.189.202.184',
-    user: 'root',
-    password: 'Klam123456Carlos',
-    database: 'BSpotify',
+    host: '111.111.11.11',
+    user: '111**',
+    password: 'pass****',
+    database: '1111',
     port: 3306
   });
 }
